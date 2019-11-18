@@ -1,6 +1,6 @@
 h1. Textile Specifications
 
-These are the specifications for the Textile markup language. Implementations (libraries for PHP, Ruby, Python, etc.) can use them in their tests to make sure they are compliant and they are also used to generate the online Textile documentation.
+These are the specifications for the Textile Markup Language. Implementations (libraries for PHP, Ruby, Python, etc.) can use them in their tests to make sure they are compliant and they are also used to generate the online Textile documentation.
 
 h2. Organization
 
